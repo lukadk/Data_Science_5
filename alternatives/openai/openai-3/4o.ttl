@@ -1,0 +1,44 @@
+@prefix ns1: <http://example.org/> .
+
+<http://example.org/case/C-570/24> a ns1:Case ;
+    ns1:case_id "C-570/24" ;
+    ns1:date "2024-08-27" ;
+    ns1:keyword "preliminary ruling, insolvency, excise duty, VAT, tax evasion, legal person, tax warehousekeeper, ethyl alcohol, criminal judicial decision, embezzlement, Codul penal, Legea nr. 241 din 15 iulie 2005, Notice of Assessment No F-BN 77, Codul de procedură fiscală, res judicata, Council Directive 2008/118/EC" ;
+    ns1:language "Romanian" ;
+    ns1:referring_court "Curtea de Apel Cluj" .
+
+<http://example.org/case/C-574/24> a ns1:Case ;
+    ns1:case_id "C-574/24" ;
+    ns1:date "2024-08-27" ;
+    ns1:keyword "preliminary ruling, Flutter Entertainment plc, KJ, Regulation (EC) No 864/2007, tortious liability, gambling losses, ultimate parent company, online games of chance, Austria, license, damage, credit transfers, player account, bets, loss, player’s place of residence, claim to payment, location of the player’s main assets" ;
+    ns1:language "German" ;
+    ns1:referring_court "Oberlandesgericht Wien" .
+
+<http://example.org/case/C-62/24%20P> a ns1:Case ;
+    ns1:case_id "C-62/24 P" ;
+    ns1:date "2024-01-29" ;
+    ns1:keyword "Appeal, ST, General Court, Frontex, European Border and Coast Guard Agency, dismissed, inadmissible, unfounded, costs" ;
+    ns1:language "English" ;
+    ns1:referring_court "General Court (Sixth Chamber)" .
+
+<http://example.org/case/T-468/24> a ns1:Case ;
+    ns1:case_id "T-468/24" ;
+    ns1:date "2024-09-10" ;
+    ns1:keyword "FB, Parliament, application admissible, annul contested decision, 13 November 2023, 30 January 2024, defendant to pay the costs, infringement of Article 17, Annex VIII, Staff Regulations, equal treatment, non-discrimination, principle of proportionality" ;
+    ns1:language "French" ;
+    ns1:referring_court "European Parliament" .
+
+<http://example.org/case/T-51/24> a ns1:Case ;
+    ns1:case_id "T-51/24" ;
+    ns1:date "2024-10-09" ;
+    ns1:keyword "Civil service, Retirement pension, Pension rights, EU scheme, Rejection of the request for transfer, Request submitted out of time, Exceptional circumstances, Article 77 of the Staff Regulations, Article 11(2) of Annex VIII to the Staff Regulations, Sixth paragraph of Article 5(1) of the general implementing provisions for Articles 11 and 12 of Annex VIII to the Staff Regulations" ;
+    ns1:language "Italian" ;
+    ns1:referring_court "General Court" .
+
+<http://example.org/case/T-522/24> a ns1:Case ;
+    ns1:case_id "T-522/24" ;
+    ns1:date "2024-10-10" ;
+    ns1:keyword "Seven.One Entertainment Group, EUIPO, Alaattin Celik, GERMANY’S NEXT top kebab by Uncle Charlie, Revocation proceedings, Infringement of Article 94(1) of Regulation (EU) 2017/1001, Infringement of Article 59(1)(b) of Regulation (EU) 2017/1001" ;
+    ns1:language "German" ;
+    ns1:referring_court "European Union Intellectual Property Office (EUIPO)" .
+

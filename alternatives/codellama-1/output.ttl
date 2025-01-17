@@ -1,0 +1,44 @@
+@prefix ns1: <http://example.org/> .
+
+<http://example.org/case/C-51/24> a ns1:Case ;
+    ns1:case_id "C-51/24" ;
+    ns1:date "October 9, 2024" ;
+    ns1:keyword "CF, Commission, pension, rights, transfer, European Union" ;
+    ns1:language "Italian" ;
+    ns1:referring_court "General Cour t of 9 October 2024" .
+
+<http://example.org/case/C-570/24> a ns1:Case ;
+    ns1:case_id "C-570/24" ;
+    ns1:date "2024-12-02" ;
+    ns1:keyword "Ecoser v, Transilvania Master Insolv IPURL, insolvency administrator, Direcția Generală Regională a Finanțelor Publice Cluj, Administrația Județeană a Finanțelor Publice Bistr ița-Năsăud, Serviciul Fiscal Orășenesc Năsăud" ;
+    ns1:language "Romanian" ;
+    ns1:referring_court "Curtea de Apel Cluj" .
+
+<http://example.org/case/C-574/24> a ns1:Case ;
+    ns1:case_id "C-574/24" ;
+    ns1:date "2024-12-02" ;
+    ns1:keyword "Regulation (EC) No 864/2007, Rome II, gaming, tortious liability, online games, license" ;
+    ns1:language "German" ;
+    ns1:referring_court "Oberlandesgericht Wien" .
+
+<http://example.org/case/C-62/24%20P> a ns1:Case ;
+    ns1:case_id "C-62/24 P" ;
+    ns1:date "2024-10-11" ;
+    ns1:keyword "appeal, dismissed, manifestly inadmissible" ;
+    ns1:language "English" ;
+    ns1:referring_court "General Cour t (Sixth Chamber)" .
+
+<http://example.org/case/C/2024/7043> a ns1:Case ;
+    ns1:case_id "C/2024/7043" ;
+    ns1:date "2024-12-02" ;
+    ns1:keyword "Action brought on 10 Oct ober 2024 – Sev en.One Enter tainment Group v EUIPO, Celik (GERMANY’S NEXT top kebab by Uncle Charlie), Infringement of Article 94(1) of Regulation (EU) 2017/1001 of the European Parliament and of the Council, Infringement of Article 59(1)(b) of Regulation (EU) 2017/1001 of the European Parliament and of the Council" ;
+    ns1:language "German" ;
+    ns1:referring_court "European Union Intellectual Property Office (EUIPO)" .
+
+<http://example.org/case/T-468/24> a ns1:Case ;
+    ns1:case_id "T-468/24" ;
+    ns1:date "2024-09-10" ;
+    ns1:keyword "Action brought on, Parliament, Claims, Declaration admissible, Annul decision, Order pay costs" ;
+    ns1:language "French" ;
+    ns1:referring_court "European Union" .
+

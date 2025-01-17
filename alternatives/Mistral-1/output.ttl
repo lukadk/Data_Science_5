@@ -1,0 +1,44 @@
+@prefix ns1: <http://example.org/> .
+
+<http://example.org/case/C-574/24> a ns1:Case ;
+    ns1:case_id "C-574/24" ;
+    ns1:date "2024-08-27" ;
+    ns1:keyword "Flutter Entertainment plc, KJ, Article 4(1), Regulation (EC) No 864/2007, tortious liability, gambling losses, online games of chance, Austria, place of damage, credit transfers, player account, bets, player residence, main assets" ;
+    ns1:language "German" ;
+    ns1:referring_court "Oberlandesgericht Wien" .
+
+<http://example.org/case/C-62/24%20P%20%28C/2024/7014%29> a ns1:Case ;
+    ns1:case_id "C-62/24 P (C/2024/7014)" ;
+    ns1:date "2023-11-28" ;
+    ns1:keyword "Appeal, ST, Frontex, European Border and Coast Guard Agency, Admissible, Unfounded, Costs" ;
+    ns1:language "English" ;
+    ns1:referring_court "General Court (Sixth Chamber)" .
+
+<http://example.org/case/Case%20C-570/24%2C%20Ecoser%20v> a ns1:Case ;
+    ns1:case_id "Case C-570/24, Ecoser v" ;
+    ns1:date "2024-08-27" ;
+    ns1:keyword "Excise Duty, VAT, Council Directive 2008/118/EC, Tax Evasion, Res Judicata, Law No 241 of 15 July 2005 on preventing and combating tax evasion" ;
+    ns1:language "Romanian" ;
+    ns1:referring_court "Curtea de Apel Cluj (Romania)" .
+
+<http://example.org/case/T-468/24> a ns1:Case ;
+    ns1:case_id "T-468/24" ;
+    ns1:date "2024-09-10" ;
+    ns1:keyword "Admissibility, Annulment of Decision, Equal Treatment, Non-Discrimination, Proportionality, Staff Regulations" ;
+    ns1:language "French" ;
+    ns1:referring_court "European Union Court" .
+
+<http://example.org/case/T-51/24> a ns1:Case ;
+    ns1:case_id "T-51/24" ;
+    ns1:date "2024-10-09" ;
+    ns1:keyword "Judgment, European Union, Retirement Pension, Transfer of pension rights, Annullment, Article 77 of the Staff Regulations, Article 11(2) of Annex VIII to the Staff Regulations, Sixth paragraph of Article 5(1) of the general implementing provisions for Articles 11 and 12 of Annex VIII to the Staff Regulations, European Commission, Applicant: CF, Defendant: European Commission" ;
+    ns1:language "Italian" ;
+    ns1:referring_court "General Court" .
+
+<http://example.org/case/T-522/24> a ns1:Case ;
+    ns1:case_id "T-522/24" ;
+    ns1:date "10 Oct ober 2024" ;
+    ns1:keyword "Seven.One Entertainment Group v EUIPO, GERMANY’S NEXT top kebab by Uncle Charlie, Revocation proceedings, Article 94(1), Article 59(1)(b), Infringement" ;
+    ns1:language "German" ;
+    ns1:referring_court "European Union Intellectual Property Office (EUIPO)" .
+

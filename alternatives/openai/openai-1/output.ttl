@@ -1,0 +1,44 @@
+@prefix ns1: <http://example.org/> .
+
+<http://example.org/case/C-570/24> a ns1:Case ;
+    ns1:case_id "C-570/24" ;
+    ns1:date "2024-12-02" ;
+    ns1:keyword "excise duty, VAT, tax evasion, criminal decision, res judicata, European Union law" ;
+    ns1:language "Romanian" ;
+    ns1:referring_court "Curtea de Apel Cluj" .
+
+<http://example.org/case/C-574/24> a ns1:Case ;
+    ns1:case_id "C-574/24" ;
+    ns1:date "2024-12-02" ;
+    ns1:keyword "preliminary ruling, damages, tortious liability, gambling losses, jointly and severally liable, online games of chance, license, damage, credit transfers, player account, residence, main assets" ;
+    ns1:language "German" ;
+    ns1:referring_court "Oberlandesgericht Wien" .
+
+<http://example.org/case/C-62/24%20P> a ns1:Case ;
+    ns1:case_id "C-62/24 P" ;
+    ns1:date "2023-11-28" ;
+    ns1:keyword "appeal, order, European Border and Coast Guard Agency, dismissed, costs" ;
+    ns1:language "English" ;
+    ns1:referring_court "General Court" .
+
+<http://example.org/case/T-468/24> a ns1:Case ;
+    ns1:case_id "T-468/24" ;
+    ns1:date "2024-09-10" ;
+    ns1:keyword "admissibility, annulment, equal treatment, non-discrimination, proportionality" ;
+    ns1:language "French" ;
+    ns1:referring_court "European Parliament" .
+
+<http://example.org/case/T-51/24> a ns1:Case ;
+    ns1:case_id "T-51/24" ;
+    ns1:date "2024-10-09" ;
+    ns1:keyword "Civil service, Retirement pension, Pension rights, European Union, Transf er request, Exceptional circumstances, Staff Regulations, Annex VIII, Implementing provisions" ;
+    ns1:language "Italian" ;
+    ns1:referring_court "General Court" .
+
+<http://example.org/case/T-522/24> a ns1:Case ;
+    ns1:case_id "T-522/24" ;
+    ns1:date "2024-10-10" ;
+    ns1:keyword "Revocation proceedings, EU figurative mark, Infringement of Article 94(1), Infringement of Article 59(1)(b)" ;
+    ns1:language "German" ;
+    ns1:referring_court "European Union Intellectual Property Office (EUIPO)" .
+

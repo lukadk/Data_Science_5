@@ -1,0 +1,60 @@
+@prefix ns1: <http://example.org/> .
+
+<http://example.org/case/C-570/24> a ns1:Case ;
+    ns1:case_id "C-570/24" ;
+    ns1:date "2024-12-02" ;
+    ns1:keyword "excise duty, VAT, tax evasion, embezzlement, European Union law" ;
+    ns1:language "Romanian" ;
+    ns1:party1 "Ecoser v SRL" ;
+    ns1:party2 "Transilvania Master Insolv IPURL" ;
+    ns1:party3 "Direcția Generală Regională a Finanțelor Publice Cluj" ;
+    ns1:party4 "Administrația Județeană a Finanțelor Publice Bistrița-Năsăud" ;
+    ns1:party5 "Serviciul Fiscal Orășenesc Năsăud" ;
+    ns1:referring_court "Curtea de Apel Cluj" .
+
+<http://example.org/case/C-574/24> a ns1:Case ;
+    ns1:case_id "C-574/24" ;
+    ns1:date "2024-08-27" ;
+    ns1:keyword "damages, tortious liability, gambling losses, online games of chance, parent company, jointly and severally liable co-perpetrator" ;
+    ns1:language "German" ;
+    ns1:party1 "Flutter Entertainment plc" ;
+    ns1:party2 "KJ" ;
+    ns1:referring_court "Oberlandesgericht Wien" .
+
+<http://example.org/case/C-62/24%20P> a ns1:Case ;
+    ns1:case_id "C-62/24 P" ;
+    ns1:date "2023-11-28" ;
+    ns1:keyword "Appeal, order, dismissed, Costs" ;
+    ns1:language "English" ;
+    ns1:party1 "ST" ;
+    ns1:party2 "Frontex" ;
+    ns1:referring_court "General Court (Sixth Chamber)" .
+
+<http://example.org/case/T-468/24> a ns1:Case ;
+    ns1:case_id "T-468/24" ;
+    ns1:date "2024-09-10" ;
+    ns1:keyword "Annulment, Legal challenge, Equal treatment, Discrimination, Proportionality" ;
+    ns1:language "French" ;
+    ns1:party1 "FB" ;
+    ns1:party2 "European Parliament" ;
+    ns1:referring_court "European Parliament" .
+
+<http://example.org/case/T-51/24> a ns1:Case ;
+    ns1:case_id "T-51/24" ;
+    ns1:date "2024-10-09" ;
+    ns1:keyword "Civil service, Retirement pension, Pension rights, European Union" ;
+    ns1:language "Italian" ;
+    ns1:party1 "CF" ;
+    ns1:party2 "European Commission" ;
+    ns1:referring_court "General Court" .
+
+<http://example.org/case/T-522/24> a ns1:Case ;
+    ns1:case_id "T-522/24" ;
+    ns1:date "2024-10-10" ;
+    ns1:keyword "Revocation proceedings, Trade mark infringement" ;
+    ns1:language "German" ;
+    ns1:party1 "Seven.One Entertainment Group GmbH" ;
+    ns1:party2 "European Union Intellectual Property Office (EUIPO)" ;
+    ns1:party3 "Alaattin Celik" ;
+    ns1:referring_court "European Union Intellectual Property Office (EUIPO)" .
+

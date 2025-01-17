@@ -1,0 +1,77 @@
+@prefix ns1: <http://example.org/> .
+
+<http://example.org/case/C-570/24%2C%20Ecoser%20v> a ns1:Case ;
+    ns1:case_id "C-570/24, Ecoser v" ;
+    ns1:date "2024-08-27" ;
+    ns1:keyword "excise duty, VAT, tax evasion, res judicata, joint and several liability, ethyl alcohol, tax warehousekeeper, Council Directive 2008/118/EC, Codul penal, Legea nr. 241 din 15 iulie 2005, Codul de procedură fiscală" ;
+    ns1:language "Romanian" ;
+    ns1:legal_grounds "The questions referred concern the interpretation of EU law on excise duties and VAT, specifically whether a legal person can be held liable for unpaid taxes where a criminal court has found the managing director solely responsible for the tax evasion.  The questions also address the application of res judicata in the context of EU tax rules." ;
+    ns1:party1 "Ecoser v SRL, through Transilvania Master Insolv IPURL, insolvency administrator" ;
+    ns1:party2 "Direcția Generală Regională a Finanțelor Publice Cluj" ;
+    ns1:party3 "Administrația Județeană a Finanțelor Publice Bistrița-Năsăud" ;
+    ns1:party4 "Serviciul Fiscal Orășenesc Năsăud" ;
+    ns1:referring_court "Curtea de Apel Cluj" ;
+    ns1:rulings "N/A" ;
+    ns1:type_of_case "Preliminary ruling" .
+
+<http://example.org/case/C-574/24> a ns1:Case ;
+    ns1:case_id "C-574/24" ;
+    ns1:date "2024-08-27" ;
+    ns1:keyword "tortious liability, gambling losses, online games of chance, parent company, subsidiary, Article 4(1), Regulation (EC) No 864/2007, Rome II" ;
+    ns1:language "German" ;
+    ns1:legal_grounds "Interpretation of Article 4(1) of Regulation (EC) No 864/2007 (Rome II) regarding the place where damage occurred in an action for damages based on tortious liability for gambling losses against a parent company whose subsidiary operated unlicensed online games." ;
+    ns1:party1 "Flutter Entertainment plc" ;
+    ns1:party2 "KJ" ;
+    ns1:referring_court "Oberlandesgericht Wien" ;
+    ns1:rulings "N/A" ;
+    ns1:type_of_case "Preliminary ruling" .
+
+<http://example.org/case/C-62/24%20P> a ns1:Case ;
+    ns1:case_id "C-62/24 P" ;
+    ns1:date "2024-10-11" ;
+    ns1:keyword "Appeal, Manifestly inadmissible, Manifestly unfounded, Costs" ;
+    ns1:language "English" ;
+    ns1:legal_grounds "Appeal dismissed as being, in part, manifestly inadmissible and, in part, manifestly unfounded." ;
+    ns1:party1 "ST" ;
+    ns1:party2 "European Border and Coast Guard Agency (Frontex)" ;
+    ns1:referring_court "General Court (Sixth Chamber)" ;
+    ns1:rulings "Appeal dismissed; appellant to bear own costs." ;
+    ns1:type_of_case "Appeal" .
+
+<http://example.org/case/T-468/24> a ns1:Case ;
+    ns1:case_id "T-468/24" ;
+    ns1:date "2024-09-10" ;
+    ns1:keyword "Annulment, Article 17 of Annex VIII to the Staff Regulations, Equal treatment, Non-discrimination, Proportionality" ;
+    ns1:language "French" ;
+    ns1:legal_grounds "Infringement of Article 17 of Annex VIII to the Staff Regulations; failure to observe the principle of equal treatment and non-discrimination; failure to observe the principle of proportionality." ;
+    ns1:party1 "FB" ;
+    ns1:party2 "European Parliament" ;
+    ns1:referring_court "N/A" ;
+    ns1:rulings "Declare the application admissible; annul the contested decision of 13 November 2023 and, where necessary, annul the decision rejecting the applicant’s complaint of 30 January 2024; order the defendant to pay the costs." ;
+    ns1:type_of_case "Civil service" .
+
+<http://example.org/case/T-51/24> a ns1:Case ;
+    ns1:case_id "T-51/24" ;
+    ns1:date "2024-10-09" ;
+    ns1:keyword "Retirement pension, Pension rights, Staff Regulations, Transfer, Exceptional circumstances, Article 270 TFEU" ;
+    ns1:language "Italian" ;
+    ns1:legal_grounds "Applicant sought annulment of Commission decisions rejecting requests for pension rights transfer, arguing against the rejection based on timeliness and lack of exceptional circumstances." ;
+    ns1:party1 "CF" ;
+    ns1:party2 "European Commission" ;
+    ns1:referring_court "N/A" ;
+    ns1:rulings "['Dismisses the action', 'Orders CF to pay the costs']" ;
+    ns1:type_of_case "Civil service" .
+
+<http://example.org/case/T-522/24> a ns1:Case ;
+    ns1:case_id "T-522/24" ;
+    ns1:date "10 Oct ober 2024" ;
+    ns1:keyword "Trade Mark, Revocation, EUIPO, Intellectual Property, GERMANY’S NEXT top kebab by Uncle Charlie" ;
+    ns1:language "German" ;
+    ns1:legal_grounds "Infringement of Article 94(1) and Article 59(1)(b) of Regulation (EU) 2017/1001." ;
+    ns1:party1 "Seven.One Entertainment Group GmbH" ;
+    ns1:party2 "European Union Intellectual Property Office (EUIPO)" ;
+    ns1:party3 "Alaattin Celik" ;
+    ns1:referring_court "N/A" ;
+    ns1:rulings "Annul the contested decision; Order EUIPO to pay the costs." ;
+    ns1:type_of_case "Appeal" .
+
