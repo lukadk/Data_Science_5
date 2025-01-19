@@ -1,0 +1,62 @@
+@prefix ns1: <http://example.org/> .
+
+<http://example.org/case/T-330/18> a ns1:Case ;
+    ns1:case_id "T-330/18" ;
+    ns1:date "2020-03-12" ;
+    ns1:keyword "civil service, pension rights, non-discrimination, expatriation allowance" ;
+    ns1:language "French" ;
+    ns1:legal_grounds "The applicant challenges the Commission’s decision to refuse to grant him an expatriation allowance, arguing discrimination based on nationality and place of recruitment." ;
+    ns1:party1 "CS" ;
+    ns1:party2 "European Commission" ;
+    ns1:referring_court "N/A" ;
+    ns1:rulings "The General Court dismissed the action." ;
+    ns1:type_of_case "Civil service" .
+
+<http://example.org/case/T-646/13> a ns1:Case ;
+    ns1:case_id "T-646/13" ;
+    ns1:date "2015-11-26" ;
+    ns1:keyword "civil service, expatriation allowance, family benefits" ;
+    ns1:language "French" ;
+    ns1:legal_grounds "The applicant, EA, challenged the Commission’s decision to refuse payment of the expatriation allowance and certain family benefits." ;
+    ns1:party1 "EA" ;
+    ns1:party2 "European Commission" ;
+    ns1:referring_court "N/A" ;
+    ns1:rulings "The Court dismissed the action." ;
+    ns1:type_of_case "Civil service" .
+
+<http://example.org/case/T-66/15> a ns1:Case ;
+    ns1:case_id "T-66/15" ;
+    ns1:date "2016-09-14",
+        "2016-09-28" ;
+    ns1:keyword "civil service, expatriation allowance, family benefits",
+        "civil service, pension rights, non-discrimination, family benefits" ;
+    ns1:language "French" ;
+    ns1:legal_grounds "The applicant contests the Parliament’s decision to refuse to grant her family benefits in respect of her adopted daughter, on the ground that the adoption took place after the applicant’s retirement.",
+        "The applicant, CS, challenges the Commission’s decision to recover part of the expatriation allowance and certain family benefits." ;
+    ns1:party1 "CS",
+        "VG" ;
+    ns1:party2 "European Commission",
+        "European Parliament" ;
+    ns1:referring_court "N/A" ;
+    ns1:rulings "The Court annulled the Commission’s decision to recover the sums corresponding to the expatriation allowance from CS, but dismissed the remainder of the action.",
+        "The Court annulled the Parliament’s decision, holding that it was discriminatory to deny family benefits to an official who adopts a child after retirement." ;
+    ns1:type_of_case "Civil service" .
+
+<http://example.org/case/T-66/18> a ns1:Case ;
+    ns1:case_id "T-66/18" ;
+    ns1:date "2020-03-12",
+        "2020-03-18" ;
+    ns1:keyword "civil service, pension rights, annulment, expatriation allowance",
+        "civil service, remuneration, expatriation allowance, weighting" ;
+    ns1:language "French" ;
+    ns1:legal_grounds "The applicant challenges the Commission’s decision not to grant an expatriation allowance, arguing a misinterpretation of ‘weighting’ and failure to consider personal circumstances.",
+        "The applicant contests the decision to recover part of the expatriation allowance she received. She argues that the Parliament’s decision is unlawful." ;
+    ns1:party1 "BG",
+        "OA" ;
+    ns1:party2 "European Commission",
+        "European Parliament" ;
+    ns1:referring_court "N/A" ;
+    ns1:rulings "The Court annulled the Parliament’s decision to recover the expatriation allowance. It found that the allowance had been lawfully paid to the applicant.",
+        "The Court dismissed the action." ;
+    ns1:type_of_case "Civil service" .
+
