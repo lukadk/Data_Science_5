@@ -1,0 +1,78 @@
+@prefix ns1: <http://example.org/> .
+
+<http://example.org/case/C-570/24> a ns1:Case ;
+    ns1:case_id "C-570/24" ;
+    ns1:date "2024-08-27" ;
+    ns1:keyword "excise duty, VAT, tax evasion, embezzlement, insolvency, tax warehousekeeper, res judicata, joint and several liability" ;
+    ns1:language "Romanian" ;
+    ns1:legal_grounds "Questions referred concern the interpretation of EU law on excise duties and VAT, specifically regarding the liability of a legal person for excise duty and VAT in the context of missing ethyl alcohol, the impact of a final criminal judicial decision on the tax liability of the legal person, and the application of the principle of res judicata in relation to the criminal decision." ;
+    ns1:party1 "Ecoser v SRL, through Transilvania Master Insolv IPURL, insolvency administrator" ;
+    ns1:party2 "Direcția Generală Regională a Finanțelor Publice Cluj" ;
+    ns1:party3 "Administrația Județeană a Finanțelor Publice Bistrița-Năsăud" ;
+    ns1:party4 "Serviciul Fiscal Orășenesc Năsăud" ;
+    ns1:referring_court "Curtea de Apel Cluj (Romania)" ;
+    ns1:rulings "N/A" ;
+    ns1:type_of_case "Preliminary ruling" .
+
+<http://example.org/case/C-574/24> a ns1:Case ;
+    ns1:case_id "C-574/24" ;
+    ns1:date "2024-08-27" ;
+    ns1:keyword "tortious liability, gambling losses, online games of chance, license, damages, parent company, subsidiary" ;
+    ns1:language "German" ;
+    ns1:legal_grounds "Determining the place where damage occurred according to Article 4(1) of Regulation (EC) No 864/2007 in a case involving gambling losses against a parent company whose subsidiary offered unlicensed online games of chance." ;
+    ns1:party1 "Flutter Entertainment plc (Applicant)" ;
+    ns1:party2 "KJ (Defendant)" ;
+    ns1:referring_court "Oberlandesgericht Wien (Austria)" ;
+    ns1:rulings "N/A" ;
+    ns1:type_of_case "Preliminary ruling" .
+
+<http://example.org/case/C-62/24%20P> a ns1:Case ;
+    ns1:case_id "C-62/24 P" ;
+    ns1:date "2024-01-29" ;
+    ns1:keyword "Appeal, Dismissed, Manifestly inadmissible, Manifestly unfounded, Costs" ;
+    ns1:language "English" ;
+    ns1:legal_grounds "The appeal was dismissed as being, in part, manifestly inadmissible and, in part, manifestly unfounded." ;
+    ns1:party1 "ST" ;
+    ns1:party2 "European Border and Coast Guard Agency (Frontex)" ;
+    ns1:referring_court "General Court (Sixth Chamber)" ;
+    ns1:rulings "Appeal dismissed; appellant to bear own costs." ;
+    ns1:type_of_case "Appeal" .
+
+<http://example.org/case/T-468/24> a ns1:Case ;
+    ns1:case_id "T-468/24" ;
+    ns1:date "2024-09-10" ;
+    ns1:keyword "Staff Regulations, equal treatment, non-discrimination, proportionality" ;
+    ns1:language "French" ;
+    ns1:legal_grounds "Infringement of Article 17 of Annex VIII to the Staff Regulations, failure to observe the principle of equal treatment and non-discrimination, and failure to observe the principle of proportionality." ;
+    ns1:party1 "FB" ;
+    ns1:party2 "European Parliament" ;
+    ns1:referring_court "N/A" ;
+    ns1:rulings "N/A" ;
+    ns1:type_of_case "Civil service" .
+
+<http://example.org/case/T-51/24> a ns1:Case ;
+    ns1:case_id "T-51/24" ;
+    ns1:date "2024-10-09" ;
+    ns1:keyword "Civil service, Retirement pension, Pension rights, Transfer to the EU scheme, Rejection of the request for transfer, Request submitted out of time, Exceptional circumstances" ;
+    ns1:language "Italian" ;
+    ns1:legal_grounds "Annulment of (i) the four decisions of the European Commission of 5 January 2023 rejecting his four requests for transfer of his pension rights acquired before he entered into the service of the European Union under Article 11(2) and (3) of Annex VIII to the Staff Regulations, and (ii) the decision of 23 October 2023 rejecting his complaint against the contested decisions." ;
+    ns1:party1 "CF" ;
+    ns1:party2 "European Commission" ;
+    ns1:referring_court "N/A" ;
+    ns1:rulings """1. Dismisses the action;
+2. Orders CF to pay the costs.""" ;
+    ns1:type_of_case "Civil service" .
+
+<http://example.org/case/T-522/24> a ns1:Case ;
+    ns1:case_id "T-522/24" ;
+    ns1:date "2024-10-10" ;
+    ns1:keyword "trade mark, revocation proceedings, intellectual property" ;
+    ns1:language "German" ;
+    ns1:legal_grounds "Infringement of Article 94(1) and Article 59(1)(b) of Regulation (EU) 2017/1001." ;
+    ns1:party1 "Seven.One Entertainment Group GmbH" ;
+    ns1:party2 "EUIPO" ;
+    ns1:party3 "Alaattin Celik" ;
+    ns1:referring_court "N/A" ;
+    ns1:rulings "Annulment of the contested decision and EUIPO to pay the costs." ;
+    ns1:type_of_case "Appeal" .
+
